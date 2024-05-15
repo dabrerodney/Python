@@ -1,0 +1,27 @@
+1. Identity & Membership operator---------------
+2. Pass, Break & Continue----------
+3. Factorial----------
+4. Palindrome------------
+5. Greatest among 4 numbers-------------
+6. Add elements/object in list-------------
+7. Built-in list function------------
+8. Remove Key:value pair in dictionary-------------
+9. Set operations
+10. Built-in set function.
+11. Python built-in function.
+12. Interchange the tuple variable.
+13. Largest and smallest in the list.
+14. Methods of dictionary.
+15. Basic operations of list.
+16. Create a set, access set element, update set, delete set.
+17. Built-in tuple function.
+18. Create Dictionary, add 3 students, update name shreyas on roll no 2, delete roll no 1
+19. Module
+20. User defined package.
+21. Sum of digit of given no.
+22. Class student.
+23. Inheritance.
+24. Command line arguement.
+25. Read content of one file and write it in second file.
+26. User defined exception.
+27. Open file in erite mode and append some content.
